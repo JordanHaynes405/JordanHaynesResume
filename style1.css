@@ -143,3 +143,6 @@ table,tr,td:hover{
     border-radius: 10px;
     box-shadow: -1px 1px gray;
 }
+#Spacer{
+    margin:100%;
+}

@@ -129,6 +129,7 @@ nav {
     font-size: 200%;
     border-radius: 10px;
     box-shadow: -1px 1px white;
+    padding:2px;
 }
 
 a {

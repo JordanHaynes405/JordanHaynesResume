@@ -4,7 +4,7 @@ html {
 }
 
 body {
-    background-image: url(BusinessBright.jpg);
+    background-image: url(BusinessBrightM.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
     background-size: contain;
@@ -27,7 +27,7 @@ h2 {
     text-align: center;
     text-shadow: -2px 2px lightgray;
     border-radius: 10px;
-    margin: auto;
+    margin: 0% 5% 0% 5%;
     font-size: 200%;
 }
 

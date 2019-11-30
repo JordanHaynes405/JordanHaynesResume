@@ -87,7 +87,7 @@ nav {
 #AboutMe {
     background-color: lightblue;
     display: block;
-    margin: 12% 0%;
+    margin: 18% 0%;
     padding: 5px 30px;
     text-shadow: .5px .5px white;
 }
@@ -108,7 +108,7 @@ nav {
     text-decoration: none;
     color: black;
     font-size: 175%;
-    margin: 15% 10%;
+    margin: 18% 10%;
 }
 
 #EmploymentTable {
@@ -120,7 +120,7 @@ nav {
 
 #Projects {
     background-color: lightblue;
-    margin: 14% 30%;
+    margin: 18% 30%;
     font-weight: bold;
     font-size: 200%;
     border-radius: 10px;
@@ -142,7 +142,7 @@ table, th, tr, td {
 
 #AboutSkills {
     background-color: lightblue;
-    margin: 15% 20%;
+    margin: 20% 20%;
     border-radius: 10px;
     box-shadow: -1px 1px gray;
 }

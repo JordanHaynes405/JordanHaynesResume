@@ -48,7 +48,7 @@ nav {
     float: left;
     border-radius: 10px;
     box-shadow: -1px 1px grey;
-    margin: 0% .55% 0% 1%;
+    margin: 2% .55% 0% 2%;
     padding:.25%;
 }
 
@@ -67,7 +67,7 @@ nav {
     height: auto;
     width: auto;
     float: left;
-    margin: 3% 12%;
+    margin: 4% 12%;
     border: 1px solid black;
     border-radius: 3px;
 }

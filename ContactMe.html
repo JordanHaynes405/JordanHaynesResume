@@ -3,7 +3,16 @@
 <head>
     <meta charset="utf-8" />
     <title>Jordan Haynes</title>
-    <link rel="stylesheet" href="style1.css" type="text/css" />
+        <meta charset="utf-8" />
+    <title>Jordan Haynes</title>
+    <script>
+        if (/Mobi|Android|iPhone/i.test(navigator.userAgent)) {
+            document.write("<link rel='stylesheet' href='style2.css' type='text/css' />")
+        }
+        else {
+            document.write("<link rel='stylesheet' href='style2.css' type='text/css' />")
+        }
+    </script>
     <script src="script.js"></script>
 </head>
 

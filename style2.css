@@ -34,6 +34,7 @@ h2 {
 
 nav {
     align-content: center;
+    align-items:center;
     margin: 2% 5%;
     padding: 0% 0% 2% 0%;
 }
@@ -47,7 +48,8 @@ nav {
     float: left;
     border-radius: 10px;
     box-shadow: -1px 1px grey;
-    margin: 0% .55% 0% 0%;
+    margin: 0% .55% 0% 1%;
+    padding:.25%;
 }
 
 #CardContainer {
@@ -96,7 +98,7 @@ nav {
     max-height: 65px;
     width: auto;
     border-radius: 2px;
-    margin: 0% 27%;
+    margin: 0% 32%;
 }
 
 #Contact {
@@ -150,4 +152,8 @@ table, th, tr, td {
     margin: 0% 30%;
     border-radius: 10px;
     box-shadow: -1px 1px gray;
+}
+
+#Spacer{
+    margin:200% 50%;
 }

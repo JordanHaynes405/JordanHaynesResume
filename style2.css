@@ -7,7 +7,7 @@ body {
     background-image: url(BusinessBrightM.jpg);
     background-repeat: no-repeat;
     background-attachment: fixed;
-    background-size: contain;
+    background-size: cover;
 }
 
 h1 {
@@ -102,10 +102,10 @@ nav {
 #LinkedinIcon {
     content: url(LinkedInIcon.png);
     display: block;
-    max-height: 30px;
+    max-height: 45px;
     width: auto;
     border-radius: 2px;
-    margin: 0% 29%;
+    margin: 0% 27%;
 }
 
 #Contact {
@@ -114,7 +114,7 @@ nav {
     text-shadow: -2px 2px lightgray;
     text-decoration: none;
     color: black;
-    font-size: 22px;
+    font-size: 200%;
     margin: 100px 40%;
 }
 
@@ -123,12 +123,14 @@ nav {
     border: 1px solid black;
     margin: 100px 10%;
     background-color: lightgray;
+    font-size: 150%;
 }
 
 #Projects {
     background-color: lightblue;
-    margin: 12% 40%;
+    margin: 12% 30%;
     font-weight: bold;
+    font-size: 200%;
     border-radius: 10px;
     box-shadow: -1px 1px gray;
 }
@@ -147,6 +149,7 @@ table, th, tr, td {
     border: 2px solid black;
     border-radius: 3px;
     box-shadow: -1px 1px gray;
+    font-size: 150%;
 }
 
     table, tr, td:hover {

@@ -36,7 +36,7 @@ nav {
     align-content: center;
     align-items:center;
     margin: 2% 5%;
-    padding: 0% 0% 2% 0%;
+    padding: 0% 0% 2% 4%;
 }
 
 .NavLinks {
@@ -77,7 +77,7 @@ nav {
     font-size: 175%;
     font-display: block;
     text-align: center;
-    margin: 9% 6%;
+    margin: 12% 6%;
     border: 2px solid black;
     padding: 0% 0% .5% 0%;
     border-radius: 3px;

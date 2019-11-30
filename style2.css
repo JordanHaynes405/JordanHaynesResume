@@ -16,20 +16,22 @@ h1 {
     display: block;
     margin: 5% 5%;
     text-align: center;
-    text-shadow: -3px 3px white;
+    text-shadow: -2px 2px white;
     border-radius: 10px;
     margin: 2% 5%;
     font-size:275%;
+    box-shadow: -1px 1px white;
 }
 
 h2 {
     background-color: lightsteelblue;
     display: block;
     text-align: center;
-    text-shadow: -3px 3px lightgray;
+    text-shadow: -2px 3px white;
     border-radius: 10px;
     margin: 0% 5% 0% 5%;
     font-size: 250%;
+    box-shadow: -1px 1px white;
 }
 
 nav {
@@ -47,7 +49,7 @@ nav {
     text-shadow: -2px 2px white;
     float: left;
     border-radius: 10px;
-    box-shadow: -1px 1px grey;
+    box-shadow: -1px 1px white;
     margin: 3% 4%;
     padding: .0% .25%;
 }
@@ -105,7 +107,7 @@ nav {
     display: block;
     font-weight: bold;
     text-align: center;
-    text-shadow: -3px 3px lightgray;
+    text-shadow: -2px 2px white;
     text-decoration: none;
     color: black;
     font-size: 175%;
@@ -125,7 +127,7 @@ nav {
     font-weight: bold;
     font-size: 200%;
     border-radius: 10px;
-    box-shadow: -1px 1px gray;
+    box-shadow: -1px 1px white;
 }
 
 a {
@@ -137,7 +139,7 @@ table, th, tr, td {
     background-color: lightgray;
     border: 2px solid black;
     border-radius: 3px;
-    box-shadow: -1px 1px gray;
+    box-shadow: -1px 1px white;
     font-size: 120%;
 }
 
@@ -145,14 +147,14 @@ table, th, tr, td {
     background-color: lightblue;
     margin: 20% 20%;
     border-radius: 10px;
-    box-shadow: -1px 1px gray;
+    box-shadow: -1px 1px white;
 }
 
 #Skills {
     background-color: lightblue;
     margin: 0% 30%;
     border-radius: 10px;
-    box-shadow: -1px 1px gray;
+    box-shadow: -1px 1px white;
     margin:5% 0%;
 }
 

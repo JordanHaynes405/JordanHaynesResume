@@ -40,7 +40,7 @@ nav {
 
 .NavLinks {
     text-decoration: none;
-    font-size: 200%;
+    font-size: 220%;
     background: lightsteelblue;
     color: black;
     text-shadow: -1px 1px white;
@@ -105,7 +105,7 @@ nav {
     text-shadow: -2px 2px lightgray;
     text-decoration: none;
     color: black;
-    font-size: 1750%;
+    font-size: 175%;
     margin: 100px 10%;
 }
 
@@ -114,7 +114,6 @@ nav {
     border: 1px solid black;
     margin: 100px 10%;
     background-color: lightgray;
-    font-size: 150%;
 }
 
 #Projects {
@@ -136,7 +135,7 @@ table, th, tr, td {
     border: 2px solid black;
     border-radius: 3px;
     box-shadow: -1px 1px gray;
-    font-size: 150%;
+    font-size: 50%;
 }
 
 #AboutSkills {

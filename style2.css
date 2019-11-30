@@ -103,6 +103,7 @@ nav {
 
 #Contact {
     display: block;
+    font-weight: bold
     text-align: center;
     text-shadow: -3px 3px lightgray;
     text-decoration: none;
@@ -156,5 +157,5 @@ table, th, tr, td {
 }
 
 #Spacer{
-    margin:175% 50%;
+    margin:165% 50%;
 }

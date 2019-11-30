@@ -33,13 +33,13 @@ h2 {
 
 nav {
     align-content: center;
-    margin: 2% 2% 0% 0%;
+    margin: 2% 2% 2% 0%;
     padding: 0% 0% 2% 0%;
 }
 
 .NavLinks {
     text-decoration: none;
-    font-size: 175%;
+    font-size: 200%;
     background: lightsteelblue;
     color: black;
     text-shadow: -1px 1px white;

@@ -33,7 +33,7 @@ h2 {
 
 nav {
     align-content: center;
-    margin: 2% 2% 2% 0%;
+    margin: 0% 5%;
     padding: 0% 0% 2% 0%;
 }
 
@@ -46,6 +46,7 @@ nav {
     float: left;
     border-radius: 10px;
     box-shadow: -1px 1px grey;
+    margin: 0% .55% 0% 0%;
 }
 
     .NavLinks:hover {

@@ -48,8 +48,8 @@ nav {
     float: left;
     border-radius: 10px;
     box-shadow: -1px 1px grey;
-    margin: 2% .55% 0% 2%;
-    padding:.25%;
+    margin: 2% .5;
+    padding: .0% .25%;
 }
 
 #CardContainer {
@@ -87,7 +87,7 @@ nav {
 #AboutMe {
     background-color: lightblue;
     display: block;
-    margin: 10% 0%;
+    margin: 12% 0%;
     padding: 5px 30px;
     text-shadow: .5px .5px white;
 }
@@ -108,7 +108,7 @@ nav {
     text-decoration: none;
     color: black;
     font-size: 175%;
-    margin: 10% 10%;
+    margin: 15% 10%;
 }
 
 #EmploymentTable {
@@ -142,7 +142,7 @@ table, th, tr, td {
 
 #AboutSkills {
     background-color: lightblue;
-    margin: 8% 20%;
+    margin: 15% 20%;
     border-radius: 10px;
     box-shadow: -1px 1px gray;
 }

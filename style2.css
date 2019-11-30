@@ -33,7 +33,7 @@ h2 {
 
 nav {
     align-content: center;
-    margin: 1% 5%;
+    margin: 2% 2% 0% 0%;
     padding: 0% 0% 2% 0%;
 }
 
@@ -43,7 +43,6 @@ nav {
     background: lightsteelblue;
     color: black;
     text-shadow: -1px 1px white;
-    padding: .25% .25% .25% .25%;
     float: left;
     border-radius: 10px;
     box-shadow: -1px 1px grey;

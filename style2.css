@@ -83,7 +83,7 @@ nav {
     border: 2px solid black;
     padding: 0% 0% .5% 0%;
     border-radius: 3px;
-    box-shadow: -1px 1px grey;
+    box-shadow: -2px 2px grey;
 }
 
 #AboutMe {
@@ -107,7 +107,7 @@ nav {
     display: block;
     font-weight: bold;
     text-align: center;
-    text-shadow: -2px 2px white;
+    text-shadow: -1px 1px 1px 1px white;
     text-decoration: none;
     color: black;
     font-size: 175%;
